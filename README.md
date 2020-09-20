@@ -24,6 +24,6 @@
 邮箱：admin@w3chack.com
 
 ## 企业网站矩阵
-主站：![https://www.w3chack.com](https://www.w3chack.com)
-博客：![https://blog.w3chack.com](https://blog.w3chack.com)
-下载站：![https://down.w3chack.com](https://down.w3chack.com)
+- 主站：[https://www.w3chack.com](https://www.w3chack.com)
+- 博客：[https://blog.w3chack.com](https://blog.w3chack.com)
+- 资源：[https://down.w3chack.com](https://down.w3chack.com)
